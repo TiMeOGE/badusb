@@ -1,6 +1,5 @@
 REM     Title: Rage-PopUps
 
-REM     Author: I am Jakoby
 
 REM     Description: This payload is meant to make a never ending supply of taunting pop-ups. See Rage-PopUps.ps1 for more details
 
